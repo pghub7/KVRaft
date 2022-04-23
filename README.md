@@ -151,3 +151,6 @@ Test 1 Get Passed: expected value: 30, got 30
 2022/04/08 20:22:45 [client1] TraceID=5995138230248986026 GenerateTokenTrace Token=[167 99 108 105 101 110 116 49 207 83 51 2 116 241 90 213 170 129 167 99 108 105 101 110 116 49 15]
 ...
 ```
+
+#### Contributors
+Cindy Miao, David Yang, Parth Garg, Eric Yan, Michelle Gu, David Wu
