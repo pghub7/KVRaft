@@ -1,5 +1,4 @@
-# KVRaft
-## (milestone 3 updated)
+# KVRaft, a Distributed Key Value Storage System Using Raft
 ## Running the KVRaft service 
 
 1. Start tracing server
