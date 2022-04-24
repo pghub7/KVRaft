@@ -1,6 +1,8 @@
 # KVRaft, a Distributed Key Value Storage System Using Raft
-## Running the KVRaft service 
 
+[About KVRaft](https://github.com/pghub7/KVRaft/blob/4f032715ad8d3bb32550857296896f6c41c4b1a4/report/report.pdf)
+
+## Running the KVRaft service
 1. Start tracing server
 ```console
 go run cmd/tracing-server/main.go
